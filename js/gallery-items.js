@@ -1,3 +1,4 @@
+//https://i.ibb.co/MSKpsNk/1466665.jpg
 export const galleryItems = [
   {
     preview:
@@ -65,3 +66,69 @@ export const galleryItems = [
     description: "Lighthouse Coast Sea",
   },
 ];
+
+// export const galleryItems = [
+//   {
+//     preview: "https://i.ibb.co/MSKpsNk/1466665.jpg",
+
+//     original: "https://i.ibb.co/MSKpsNk/1466665.jpg",
+
+//     description: "Hokkaido Flower",
+//   },
+//   {
+//     preview: "https://i.ibb.co/MSKpsNk/1466665.jpg",
+
+//     original: "https://i.ibb.co/MSKpsNk/1466665.jpg",
+
+//     description: "Hokkaido Flower",
+//   },
+//   {
+//     preview: "https://i.ibb.co/MSKpsNk/1466665.jpg",
+
+//     original: "https://i.ibb.co/MSKpsNk/1466665.jpg",
+
+//     description: "Hokkaido Flower",
+//   },
+//   {
+//     preview: "https://i.ibb.co/MSKpsNk/1466665.jpg",
+
+//     original: "https://i.ibb.co/MSKpsNk/1466665.jpg",
+
+//     description: "Hokkaido Flower",
+//   },
+//   {
+//     preview: "https://i.ibb.co/MSKpsNk/1466665.jpg",
+
+//     original: "https://i.ibb.co/MSKpsNk/1466665.jpg",
+
+//     description: "Hokkaido Flower",
+//   },
+//   {
+//     preview: "https://i.ibb.co/MSKpsNk/1466665.jpg",
+
+//     original: "https://i.ibb.co/MSKpsNk/1466665.jpg",
+
+//     description: "Hokkaido Flower",
+//   },
+//   {
+//     preview: "https://i.ibb.co/MSKpsNk/1466665.jpg",
+
+//     original: "https://i.ibb.co/MSKpsNk/1466665.jpg",
+
+//     description: "Hokkaido Flower",
+//   },
+//   {
+//     preview: "https://i.ibb.co/MSKpsNk/1466665.jpg",
+
+//     original: "https://i.ibb.co/MSKpsNk/1466665.jpg",
+
+//     description: "Hokkaido Flower",
+//   },
+//   {
+//     preview: "https://i.ibb.co/MSKpsNk/1466665.jpg",
+
+//     original: "https://i.ibb.co/MSKpsNk/1466665.jpg",
+
+//     description: "Hokkaido Flower",
+//   },
+// ];
