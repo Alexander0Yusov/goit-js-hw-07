@@ -3,13 +3,6 @@ import { galleryItems } from "./gallery-items.js";
 
 const galleryEl = document.querySelector(".gallery");
 
-// const lightEl = basicLightbox.create(
-//   `<img src="${galleryItems[0].original}" alt="${galleryItems[0].description}" width="800" height="600">`
-// );
-// document.body.innerHTML = lightEl;
-// lightEl.show();
-console.log(galleryEl);
-
 const markupGallery = galleryItems
   .map(
     ({ preview, original, description }) =>
@@ -18,3 +11,10 @@ const markupGallery = galleryItems
   .join("");
 
 galleryEl.innerHTML = markupGallery;
+
+// const lightEl = basicLightbox.create(
+//   `<img src="${galleryItems[1].original}" alt="${galleryItems[1].description}" width="800" height="600">`
+// );
+// document.body.insertAdjacentHTML("afterbegin", lightEl);
+// lightEl.show();
+// console.log(lightEl);
